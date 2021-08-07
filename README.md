@@ -2,7 +2,7 @@
 This repository contains multiple projects
 * [Discount Mart Performance Analysis](https://public.tableau.com/app/profile/deepika1921/viz/DiscountMartSalesAnanlytics/Dashboard1)
 * [Green Destination HR Analytics](https://public.tableau.com/app/profile/deepika1921/viz/GreenDestinationHRAnalytics_16062587847710/Dashboard1)
-* [Super Store Sales Agent Tracker]()
+* [Super Store Sales Agent Tracker](https://public.tableau.com/app/profile/deepika1921/viz/SuperstoreSalesAgentAnalytics_16067778372050/SuperstoreSalesAgentAnalytics)
 * [Tesla Stock Price Analytics]()
 
 
@@ -17,7 +17,7 @@ Created interactive dashboards for yearly performance analysis for Discount Mart
 * All dashboards are interactive i.e It shows the result as per user selected input on graphs.
 
  **Data**: TableauProjects/DiscountMart/discountmart.csv
- [Visulisation](https://public.tableau.com/app/profile/deepika1921/viz/DiscountMartSalesAnanlytics/Dashboard1)
+ **Visualization**[DiscountMartSalesAnalytics](https://public.tableau.com/app/profile/deepika1921/viz/DiscountMartSalesAnanlytics/Dashboard1)
 
 ### Green Destination HR Analytics
 
@@ -28,9 +28,20 @@ Green Destination is travel agency. This project is built to figure out trends o
 * Dashboards for Average income per Age, Employee count per age group, Employee count by Income created.
 
 **Data**: /TableauProjects/GreenDestination(HR Analytics)/greendestination.csv
-[Visualization](https://public.tableau.com/app/profile/deepika1921/viz/GreenDestinationHRAnalytics_16062587847710/Dashboard1)
+**Visualization**[GreenDestinationHRAnalytics](https://public.tableau.com/app/profile/deepika1921/viz/GreenDestinationHRAnalytics_16062587847710/Dashboard1)
 
-### 
+### Super Store Sales Agent performace Analytics
+
+Super store is famous retailer in Canada.Created multiple dashboards for Sales Agent Performance Analysis.
+* Built interactive Dashboard for Comparing performance of Sales Agents for given timeframe from last year and current year to track the growth.
+* Dashboard for Category wise and Subcategory wise sales to identify in profit categories and areas of growth
+* Dashboard for top performing products
+* Dashboard for Monthly Sales for company.
+
+**Data**: /TableauProjects/SuperStore(Sales Agent tracker)/superstore_orders.xlsx , /TableauProjects/SuperStore(Sales Agent tracker)/superstore_salesagents.xlsx
+**Visualization** [Super Store Sales Agent Tracker](https://public.tableau.com/app/profile/deepika1921/viz/SuperstoreSalesAgentAnalytics_16067778372050/SuperstoreSalesAgentAnalytics)
+        
+
 
 
 
