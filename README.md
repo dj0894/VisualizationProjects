@@ -1,4 +1,4 @@
-# Projects
+# Visualization Projects
 This repository contains multiple projects
 * [Discount Mart Performance Analysis](https://public.tableau.com/app/profile/deepika1921/viz/DiscountMartSalesAnanlytics/Dashboard1)
 * [Green Destination HR Analytics](https://public.tableau.com/app/profile/deepika1921/viz/GreenDestinationHRAnalytics_16062587847710/Dashboard1)
@@ -17,6 +17,7 @@ Created interactive dashboards for yearly performance analysis for Discount Mart
 * All dashboards are interactive i.e It shows the result as per user selected input on graphs.
 
  **Data**: TableauProjects/DiscountMart/discountmart.csv
+
  **Visualization**: [DiscountMartSalesAnalytics](https://public.tableau.com/app/profile/deepika1921/viz/DiscountMartSalesAnanlytics/Dashboard1)
 
 ### Green Destination HR Analytics
@@ -28,6 +29,7 @@ Green Destination is travel agency. This project is built to figure out trends o
 * Dashboards for Average income per Age, Employee count per age group, Employee count by Income created.
 
 **Data**: /TableauProjects/GreenDestination(HR Analytics)/greendestination.csv
+
 **Visualization**: [GreenDestinationHRAnalytics](https://public.tableau.com/app/profile/deepika1921/viz/GreenDestinationHRAnalytics_16062587847710/Dashboard1)
 
 ### Super Store Sales Agent performace Analytics
