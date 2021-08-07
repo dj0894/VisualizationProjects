@@ -1,9 +1,9 @@
 # Visualization Projects
-This repository contains multiple projects
+This repository contains visualisation projects. Project details can be found below.
 * [Discount Mart Performance Analysis](https://public.tableau.com/app/profile/deepika1921/viz/DiscountMartSalesAnanlytics/Dashboard1)
 * [Green Destination HR Analytics](https://public.tableau.com/app/profile/deepika1921/viz/GreenDestinationHRAnalytics_16062587847710/Dashboard1)
 * [Super Store Sales Agent Tracker](https://public.tableau.com/app/profile/deepika1921/viz/SuperstoreSalesAgentAnalytics_16067778372050/SuperstoreSalesAgentAnalytics)
-* [Tesla Stock Price Analytics]()
+* [Tesla Stock Price Analytics](https://public.tableau.com/app/profile/deepika1921/viz/TeslaPriceStock/TeslaStockPrice)
 
 
 ## Project Details
@@ -57,7 +57,8 @@ Created interactive dashboards for Tesla Stock price analysis using realtime dat
 
 **Visualization** [Tesla Stock Prize Analyis](https://public.tableau.com/app/profile/deepika1921/viz/TeslaPriceStock/TeslaStockPrice)
 
-
+## Tool Used
+Tableau
 
 
 
